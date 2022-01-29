@@ -1,16 +1,18 @@
 # react-hooks install with npm
-
-useTitle
-useInput
-usePageLeave
-useClick
-useFadeIn
-useFullScreen
-useHover
-useNetwork
-useNotification
-useScroll
-useTabs
-usePreventLeave
-useConfirm
-useAxios
+- 노마드코더님의 reactHook에 대한 강의 영상을 보고 만들었습니다.
+- reactJS에서 자주 사용하는 hook에 대해 배울 수 있었습니다.
+- class 를 통해 코드를 사용하는 것 보다 더 쉽게 기능을 사용할 수 있다는 것을 알게되었습니다.
+- useTitle
+- useInput
+- usePageLeave
+- useClick
+- useFadeIn
+- useFullScreen
+- useHover
+- useNetwork
+- useNotification
+- useScroll
+- useTabs
+- usePreventLeave
+- useConfirm
+- useAxios
